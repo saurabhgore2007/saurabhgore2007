@@ -5,6 +5,8 @@
 ## 👨‍💻 About Me
 Backend engineer with strong **frontend integration skills**.  
 I specialize in **Spring Boot, JPA/Hibernate, and transactional e-commerce flows**, while also building **responsive UIs** with modern frameworks like **React, Tailwind CSS, and Bootstrap**.  
+I use **React.js** to build dynamic, responsive, and component‑based user interfaces.  
+React’s **virtual DOM** and **declarative approach** allow me to deliver fast, scalable frontends that integrate seamlessly with my **Spring Boot + MySQL backends**.  
 I combine **robust system design** with **polished documentation** that speaks to both recruiters and collaborators.
 
 ---
