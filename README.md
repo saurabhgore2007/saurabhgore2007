@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Saurabh 👋
 
-<!--
-**saurabhgore2007/saurabhgore2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full‑Stack Developer | 🚀 Backend Specialist | 🎨 Frontend Enthusiast
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+Backend engineer with strong **frontend integration skills**.  
+I specialize in **Spring Boot, JPA/Hibernate, and transactional e-commerce flows**, while also building **responsive UIs** with modern frameworks like **React, Tailwind CSS, and Bootstrap**.  
+I combine **robust system design** with **polished documentation** that speaks to both recruiters and collaborators.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Expertise
+- **Frontend:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js
+- **Backend:** Java, Spring Boot, Hibernate, JPA
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Docker, Postman
+
+---
+
+## 📂 Featured Projects
+- **Transactional Inventory Management**  
+  Robust e-commerce flow with rollback safety for stock operations.  
+  [🔗 View Project](https://github.com/saurabhgore2007/SpringBoot-Ecommerce-Backend)
+
+---
+
+## 🎯 Current Focus
+- Integrating Postman collections into GitHub repos with clear folder structures
+- Optimizing README metadata for recruiter visibility and SEO
+- Designing inventory management flows with real-world business logic clarity
+- Building responsive UIs with Tailwind CSS and Bootstrap
+
+---
+
+## 🌐 Connect With Me
+- 🔗[LinkedIn](https://www.linkedin.com/in/saurabh-gore-077769320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📩[Email](saurabhgore44@gmail.com)
