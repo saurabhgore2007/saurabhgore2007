@@ -35,6 +35,6 @@ I combine **robust system design** with **polished documentation** that speaks t
 ---
 
 ## 🌐 Connect With Me
-- 🔗[LinkedIn](https://www.linkedin.com/in/saurabh-gore-077769320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-gore-077769320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🐙 [GitHub](https://github.com/saurabhgore2007)
-- 📩[Email](mailto:saurabhgore44@gmail.com)
+- 📩 [Email](mailto:saurabhgore44@gmail.com)
