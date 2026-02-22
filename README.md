@@ -28,7 +28,6 @@ I combine **robust system design** with **polished documentation** that speaks t
 
 ## 🎯 Current Focus
 - Integrating Postman collections into GitHub repos with clear folder structures
-- Optimizing README metadata for recruiter visibility and SEO
 - Designing inventory management flows with real-world business logic clarity
 - Building responsive UIs with Tailwind CSS and Bootstrap
 
