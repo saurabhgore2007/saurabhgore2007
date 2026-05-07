@@ -15,7 +15,7 @@ I combine **robust system design** with **polished documentation** that speaks t
 - **Frontend:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js
 - **Backend:** Java, Spring Boot, Hibernate, JPA
 - **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, Docker, Postman
+- **Tools:** Git , Postman
 
 ---
 
